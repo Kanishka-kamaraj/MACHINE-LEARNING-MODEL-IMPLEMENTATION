@@ -78,3 +78,7 @@ This project effectively demonstrates how a machine learning model can be implem
 
 2.ACCURACY OUTPUT :
 
+<img width="533" height="412" alt="Image" src="https://github.com/user-attachments/assets/b5e99333-b5a7-4f5e-a7eb-c655db38ad11" />
+
+3.CONFUSION MATRIX :
+
