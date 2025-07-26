@@ -73,3 +73,8 @@ This project effectively demonstrates how a machine learning model can be implem
 *OUTPUT*:
 
 1.DATA PREVIEW :
+
+<img width="493" height="217" alt="Image" src="https://github.com/user-attachments/assets/072e79fd-277f-4270-b1fa-adde1d8faeda" />
+
+2.ACCURACY OUTPUT :
+
