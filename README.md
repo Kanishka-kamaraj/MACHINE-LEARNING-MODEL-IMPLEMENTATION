@@ -82,3 +82,4 @@ This project effectively demonstrates how a machine learning model can be implem
 
 3.CONFUSION MATRIX :
 
+<img width="685" height="579" alt="Image" src="https://github.com/user-attachments/assets/36b7f74f-cfe2-46a7-a54c-28d22178c3f6" />
